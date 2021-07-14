@@ -1,0 +1,11 @@
+{
+    "name": "mortys_node",
+    "website": "https://mortysnode.nl",
+    "description": "Mortimers ORAI mainnet validator",
+    "type": "ERC20",
+    "id": "orai16e6cpk6ycddk6208fpaya7tmmardhvr77l5dtr",
+    "operatorAddress":"oraivaloper16e6cpk6ycddk6208fpaya7tmmardhvr7h40yqy",
+    "links": [
+        
+    ]
+}
